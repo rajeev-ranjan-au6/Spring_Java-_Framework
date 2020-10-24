@@ -12,3 +12,8 @@
 | Platform: Jakarta EE |
 | Written in: Java |
 | License: Apache License 2.0 |
+
+# Links:
+
+|https://docs.spring.io/spring-framework/docs/4.3.12.RELEASE/spring-framework-reference/htmlsingle/ (Docs)|
+|https://www.tutorialspoint.com/spring/spring_quick_guide.htm (Doc 1)|
